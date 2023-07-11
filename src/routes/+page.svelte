@@ -25,7 +25,7 @@
 	> for the tutorial.
 </p>
 <section>
-	<p>Next: 12</p>
+	<p>Next: 20</p>
 	<a href="/about">About</a>
 </section>
 
@@ -37,4 +37,12 @@
 	<p>9: Optional parameters -> <a href="/marketing">marketing</a></p>
 	<p>10: Route navigation -> <a href="/products">products</a></p>
 	<p>11: Navigating programmatically -> <a href="/">Home: place order</a></p>
+	<p>12: Route matchers -> <a href="/products">[productId=integer] => params Folder</a></p>
+	<p>13: Route layout -> <a href="/">+layout.svelte</a></p>
+	<p>14: layout groups -> <a href="/auth">auth</a></p>
+	<p>15: Breaking Out of Layouts -> <a href="/password/forgot">Forgot & Reset</a></p>
+	<p>16: Other Files -> <a href="/">header & footer.svelte</a></p>
+	<p>17 - API Routes -> <a href="/demo-api">routes/demo-api</a></p>
+	<p>18 - API Get Request -> <a href="/api/comments" /></p>
+	<p>19 - API POST Request -> <a href="/demo-api" /></p>
 </section>
